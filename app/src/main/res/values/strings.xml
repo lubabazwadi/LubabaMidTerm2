@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">[Lubaba]-MidTerm-2,2022</string>
+    <string name="Activity1">"Activity1"</string>
+    <string name="Activity2">"Activity2"</string>
+    <string name="Activity3">"Activity3"</string>
+    <string name="activity1">"You are in Activity1"</string>
+    <string name="activity2">"You are in Activity2"</string>
+    <string name="activity3">"You are in Activity3"</string>
+    <string name="activityButton">Go to main activity</string>
+    <string name="welcome">Welcome to the project of Lubaba Zwadi, ID: 201415</string>
+    <string name="id">ID*</string>
+    <string name="name">Name*</string>
+    <string name="email">SurName*</string>
+    <string name="phone">National ID</string>
+    <string name="bttninsert">Insert</string>
+    <string name="bttnback">back</string>
+    <string name="search">Search</string>
+    <string name="hint">Delete</string>
+    <string name="view">View</string>
+    <string name="go1">Go to 1</string>
+    <string name="go2">Go to 2</string>
+    <string name="go3">Go to 3</string>
+    <string-array name="number">
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+        <item>Forth</item>
+    </string-array>
+    <string-array name="cities">
+        <item>London</item>
+        <item>Riyadh</item>
+        <item>Madinah</item>
+    </string-array>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_splash">Splash</string>
+</resources>
